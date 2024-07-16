@@ -32,7 +32,7 @@
 /public/assets
 
 # Ignore master key for decrypting credentials and more.
-/config/master.key
+#/config/master.key
 
 # Ignore history file used by IRB for interactive Ruby.
 .irb_history
